@@ -38,7 +38,7 @@ The project implements a robust **Galaxy Schema (Fact Constellation Schema)** to
 ## 🛠️ Tech Stack & Tools
 * **Data Processing & Modeling:** Python (Pandas, NumPy)
 * **Database & Architecture:** Relational Star/Galaxy Schema Design
-* **Visualization & BI:** Power BI / Advanced Dashboarding Layouts
-* **Data Sources:** World Bank & Global Scholarly Migration Datasets (1996–2023)[cite: 1]
+* **Visualization:** Python (Matplotlip)
+* **Data Sources:** World Bank & Global Scholarly Migration Datasets (1996–2023)
 
 ---
